@@ -5,7 +5,7 @@ export default function App() {
       color: "from-blue-500 to-cyan-500",
       items: [
         {
-          name: "Service Department Master File",
+          name: "Le Price Master File",
           link: "https://leprice-my.sharepoint.com/:x:/g/personal/vmdoblon_leprice_onmicrosoft_com/EabeCcieAe5CkuLntbI2ppgBYaIGtKP0QLvTN7ppx9N3ig?rtime=YN-ISb0h3kg",
         },
         {
